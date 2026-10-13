@@ -8,6 +8,7 @@ namespace Tyuiu.FilippovaVD.Sprint2.Task3.V15
             DataService ds = new DataService();
 
             Console.Title = "Спринт #2 | Выполнил: Филиппова В. Д. | АСОиУб-26-1";
+
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Вложенные операторы if - else                                     *");
