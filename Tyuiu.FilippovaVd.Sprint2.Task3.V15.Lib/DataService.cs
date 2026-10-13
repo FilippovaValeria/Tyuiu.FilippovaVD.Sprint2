@@ -29,9 +29,3 @@ namespace Tyuiu.FilippovaVD.Sprint2.Task3.V15.Lib
         }
     }
 }
-
-
-
-
-
-
