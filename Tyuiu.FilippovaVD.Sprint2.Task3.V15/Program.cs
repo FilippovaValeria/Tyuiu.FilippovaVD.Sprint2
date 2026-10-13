@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using Tyuiu.FilippovaVD.Sprint2.Task3.V15.Lib;
+﻿using Tyuiu.FilippovaVD.Sprint2.Task3.V15.Lib;
 namespace Tyuiu.FilippovaVD.Sprint2.Task3.V15
 {
     class Program
