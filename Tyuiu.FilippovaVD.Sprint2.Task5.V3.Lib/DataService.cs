@@ -11,25 +11,25 @@ namespace Tyuiu.FilippovaVD.Sprint2.Task5.V3.Lib
             switch (dayNumber)
             {
                 case 1:
-                    result = "Понедельник";
+                    result = "понедельник";
                     break;
                 case 2:
-                    result = "Вторник";
+                    result = "вторник";
                     break;
                 case 3:
-                    result = "Среда";
+                    result = "среда";
                     break;
                 case 4:
-                    result = "Четверг";
+                    result = "четверг";
                     break;
                 case 5:
-                    result = "Пятница";
+                    result = "пятница";
                     break;
                 case 6:
-                    result = "Суббота";
+                    result = "суббота";
                     break;
                 case 7:
-                    result = "Воскресенье";
+                    result = "воскресенье";
                     break;
                 default:
                     result = "Некорректный номер дня недели";
